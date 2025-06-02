@@ -62,7 +62,7 @@
       ],
       "display_name": "mg-training-dev-eu-int",
       "exists": false,
-      "id": "sandbox",
+      "id": "training",
       "parent_id": "alz"
     },
     {
