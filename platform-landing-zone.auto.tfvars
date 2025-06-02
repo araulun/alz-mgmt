@@ -175,7 +175,7 @@ management_group_settings = {
     sandbox = {
       policy_assignments = {
         Enforce-ALZ-Sandbox = {
-          enforcement_mode = "Disabled"
+          enforcement_mode = "DoNotEnforce"
         }
       }
     }
